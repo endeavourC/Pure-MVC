@@ -1,0 +1,13 @@
+body {
+  background: silver;
+}
+header {
+  padding: 20px;
+  background: gold;
+}
+main {
+  background: #ddd;
+}
+footer {
+  background: grey;
+}
